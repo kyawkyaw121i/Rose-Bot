@@ -27,7 +27,7 @@ Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support q
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/keralabots)
 [![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/kochuUpdates)
-
+.
 
 
 ## Starting the bot.
